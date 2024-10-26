@@ -1,0 +1,8 @@
+npm create vite@latest
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+https://tailwindcss.com/docs/guides/vite
+npm i react-icons framer-motion
+npm i react-countup
+npm i react-slick --save
+npm install slick-carousel
